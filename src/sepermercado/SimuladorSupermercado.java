@@ -1,7 +1,7 @@
 package sepermercado;
 
 /*
- * Programa principal da simulacao
+ * Programa principal da simulacaoos
  */
 public class SimuladorSupermercado
 {
